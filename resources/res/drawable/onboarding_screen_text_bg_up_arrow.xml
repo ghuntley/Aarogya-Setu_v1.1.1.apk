@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:gravity="top|center_vertical|center_horizontal|center" android:drawable="@drawable/ic_bottom_arrow"/>
+    <item>
+        <shape>
+            <solid android:color="@color/white"/>
+            <stroke android:width="25dp" android:color="@color/transparent"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+</layer-list>

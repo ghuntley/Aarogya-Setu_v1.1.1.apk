@@ -1,0 +1,40 @@
+package i.b.a;
+
+public final class h {
+    public static final int action_container = 2131361843;
+    public static final int action_divider = 2131361845;
+    public static final int action_image = 2131361846;
+    public static final int action_text = 2131361852;
+    public static final int actions = 2131361853;
+    public static final int async = 2131361861;
+    public static final int blocking = 2131361866;
+    public static final int bottom = 2131361867;
+    public static final int chronometer = 2131361890;
+    public static final int end = 2131361920;
+    public static final int forever = 2131361935;
+    public static final int glide_custom_view_target_tag = 2131361939;
+    public static final int icon = 2131361951;
+    public static final int icon_group = 2131361952;
+    public static final int info = 2131361959;
+    public static final int italic = 2131361961;
+    public static final int left = 2131361970;
+    public static final int line1 = 2131361972;
+    public static final int line3 = 2131361973;
+    public static final int none = 2131362013;
+    public static final int normal = 2131362014;
+    public static final int notification_background = 2131362015;
+    public static final int notification_main_column = 2131362016;
+    public static final int notification_main_column_container = 2131362017;
+    public static final int right = 2131362045;
+    public static final int right_icon = 2131362046;
+    public static final int right_side = 2131362047;
+    public static final int start = 2131362093;
+    public static final int tag_transition_group = 2131362105;
+    public static final int tag_unhandled_key_event_manager = 2131362106;
+    public static final int tag_unhandled_key_listeners = 2131362107;
+    public static final int text = 2131362110;
+    public static final int text2 = 2131362111;
+    public static final int time = 2131362126;
+    public static final int title = 2131362127;
+    public static final int top = 2131362130;
+}
